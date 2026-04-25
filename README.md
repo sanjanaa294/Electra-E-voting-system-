@@ -18,13 +18,13 @@ Welcome to **Electra**, an online voting web application designed to facilitate 
 
 ## 📸 Screenshots
 
-| Landing Page | Registeration |
+| **Landing Page** | **Registeration** |
 | :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/3042db4e-db16-4079-ac75-d78d5ac45255" alt="Dashboard" width="100%"/> | <img src="https://github.com/user-attachments/assets/5ee076a5-79dd-4450-a01a-7e178a991bc6" alt="Voting Interface" width="100%"/> |
-| **Admin Panel** | **Results** |
-| <img src="https://github.com/user-attachments/assets/aacb301c-c655-4035-ac8a-c6d5656750d5" alt="Admin Panel" width="100%"/> | <img src="https://github.com/user-attachments/assets/74bfe455-3978-4806-bf99-b0aadd66c663" alt="Results" width="100%"/> |
-| **Login** | |
-| <img src="https://github.com/user-attachments/assets/ce853fdb-4b55-4b45-95df-1465c7685dd9" alt="Login" width="100%"/> | |
+| <img src="https://github.com/user-attachments/assets/3042db4e-db16-4079-ac75-d78d5ac45255" alt="Landing Page" width="100%"/> | <img src="https://github.com/user-attachments/assets/5ee076a5-79dd-4450-a01a-7e178a991bc6" alt="Registeration" width="100%"/> |
+| **Login Page** | **Voting Interface** |
+| <img src="https://github.com/user-attachments/assets/aacb301c-c655-4035-ac8a-c6d5656750d5" alt="Login Page" width="100%"/> | <img src="https://github.com/user-attachments/assets/74bfe455-3978-4806-bf99-b0aadd66c663" alt="Voting Interface" width="100%"/> |
+| **Results** | **Database** |
+|<img src="https://github.com/user-attachments/assets/232f1846-4cb2-4e7a-8b09-6df786e493eb" alt="Results" width="100%"/> | <img src="https://github.com/user-attachments/assets/ce853fdb-4b55-4b45-95df-1465c7685dd9" alt="Database" width="100%"/> | 
 
 ---
 
