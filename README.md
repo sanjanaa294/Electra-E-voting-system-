@@ -18,7 +18,7 @@ Welcome to **Electra**, an online voting web application designed to facilitate 
 
 ## 📸 Screenshots
 
-| Dashboard | Voting Interface |
+| Landing Page | Registeration |
 | :---: | :---: |
 | <img src="https://github.com/user-attachments/assets/3042db4e-db16-4079-ac75-d78d5ac45255" alt="Dashboard" width="100%"/> | <img src="https://github.com/user-attachments/assets/5ee076a5-79dd-4450-a01a-7e178a991bc6" alt="Voting Interface" width="100%"/> |
 | **Admin Panel** | **Results** |
