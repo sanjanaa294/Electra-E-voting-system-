@@ -2,6 +2,12 @@
 
 Welcome to the Voter Online Web Application. This web application is designed to facilitate online voting. It is built using HTML, CSS, JavaScript, PHP, and MySQL, and it runs on the XAMPP server. Below is the detailed information on how to set up and use this application.
 ![Screenshot 2024-12-04 215916](https://github.com/user-attachments/assets/3042db4e-db16-4079-ac75-d78d5ac45255)
+<img width="1841" height="890" alt="Screenshot 2024-12-04 215949" src="https://github.com/user-attachments/assets/5ee076a5-79dd-4450-a01a-7e178a991bc6" />
+<img width="1804" height="864" alt="Screenshot 2024-12-04 220112" src="https://github.com/user-attachments/assets/aacb301c-c655-4035-ac8a-c6d5656750d5" />
+<img width="1882" height="918" alt="Screenshot 2024-12-04 221229" src="https://github.com/user-attachments/assets/74bfe455-3978-4806-bf99-b0aadd66c663" />
+<img width="1906" height="1035" alt="Screenshot 2024-12-04 221755" src="https://github.com/user-attachments/assets/ce853fdb-4b55-4b45-95df-1465c7685dd9" />
+
+
 
 ## Table of Contents
 - [Features](#features)
